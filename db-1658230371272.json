@@ -1,6 +1,12 @@
 {
   "items": [
     {
+      "id": 1,
+      "name": "Yogurt",
+      "category": "Dairy",
+      "isInCart": false
+    },
+    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -29,30 +35,6 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
-    },
-    {
-      "name": "yogurt",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 8
-    },
-    {
-      "name": "Lollipop",
-      "category": "Dessert",
-      "isInCart": false,
-      "id": 9
-    },
-    {
-      "name": "Gideon",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 11
-    },
-    {
-      "name": "Mango",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 12
     }
   ]
 }
